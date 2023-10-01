@@ -5,6 +5,7 @@ import { WiHumidity } from "react-icons/wi";
 import { MdAir } from "react-icons/md";
 import { CiTempHigh } from "react-icons/ci";
 import { FaEye } from "react-icons/fa";
+import Detail from "./Detail";
 
 type DayForecastProps = {
   astro: {

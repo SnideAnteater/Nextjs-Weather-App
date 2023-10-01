@@ -102,7 +102,6 @@ const Home = () => {
           </h1>
         </div>
         {content}
-        {/* {data.current ? <div>{data.current.temp_c}</div> : null} */}
       </div>
     </div>
   );
